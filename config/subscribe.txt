@@ -1,5 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/swj2323/iptv-api/refs/heads/master/output/tv.txt
-https://raw.githubusercontent.com/swj2323/iptv-api/refs/heads/master/output/tv.m3u
+https://raw.githubusercontent.com/swj2323/iptv-api/master/output/tv.txt
+https://raw.githubusercontent.com/sweijun/iptv-api/master/MQitv/MQitv.txt
