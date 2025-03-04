@@ -3,3 +3,7 @@
 
 https://raw.githubusercontent.com/swj2323/iptv-api/master/output/tv.txt
 https://raw.githubusercontent.com/sweijun/iptv-api/master/MQitv/MQitv.txt
+https://raw.githubusercontent.com/swj2323/iptv-api/master/Download/iptv-api.txt
+https://raw.githubusercontent.com/swj2323/iptv-api/rmaster/Download/wwkejishe.m3u
+https://raw.githubusercontent.com/swj2323/iptv-api/master/Download/wwkjsub.m3u
+https://raw.githubusercontent.com/swj2323/iptv-api/master/Download/wwkjtv.m3u
