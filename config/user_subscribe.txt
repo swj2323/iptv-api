@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/swj2323/m3ufiles/main/Download/iptv-api.txt
 https://raw.githubusercontent.com/swj2323/m3ufiles/main/Download/wwkejishe.m3u
 https://raw.githubusercontent.com/swj2323/m3ufiles/main/Download/wwkjsub.m3u
 https://raw.githubusercontent.com/swj2323/m3ufiles/main/Download/wwkjtv.m3u
+https://raw.githubusercontent.com/swj2323/m3ufiles/main/Download/iptv-org.m3u
