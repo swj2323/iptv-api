@@ -379,11 +379,11 @@ def sort_result_key(item: TestResult | ChannelData) -> float:
     """
     Sort the result with key
     """
-    speed, origin = item["speed"], item["origin"]
-    if origin in ["whitelist", "live", "hls"]:
-        return float("inf")
-    else:
-        return speed
+    speed = item.get("speed", 0) 
+origin = item.get("origin", "unknown").lower().strip() 
+priority_sources = {"whitelist", "live", "hls"}
+
+return float("inf") if origin in priority_sources else max(speed, 0)
 
 
 def get_sort_result(results, name=None, supply=open_supply, filter_speed=open_filter_speed,
