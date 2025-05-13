@@ -10,7 +10,6 @@ CCTV2,http://192.168.6.1:1207/rtp/239.255.40.36:8208
 CCTV3,http://192.168.6.1:1207/rtp/239.255.40.195:8208
 CCTV4,http://192.168.6.1:1207/rtp/239.255.40.198:8208
 CCTV5,http://192.168.6.1:1207/rtp/239.255.40.196:8208
-CCTV5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV5+,http://192.168.6.1:1207/rtp/239.255.40.34:8208
 CCTV5+,http://192.168.6.1:1207/rtp/239.255.40.71:8208
 CCTV7,http://192.168.6.1:1207/rtp/239.255.40.37:8208
@@ -18,7 +17,6 @@ CCTV9,http://192.168.6.1:1207/rtp/239.255.40.38:8208
 CCTV10,http://192.168.6.1:1207/rtp/239.255.40.39:8208
 CCTV11,http://192.168.6.1:1207/rtp/239.255.40.2:8208
 CCTV12,http://192.168.6.1:1207/rtp/239.255.40.40:8208
-CCTV12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 CCTV13,http://192.168.6.1:1207/rtp/239.255.40.3:8208
 CCTV13,https://feiyang.wangdu.site/decrypt.php?url=bHdoYTBPMFpsc0FtOCt2bk5yTVA0S20rb0J6TTIxVGIxQ09jYjlyLzVMa2hrL1I1T25hWTNudlIzZkxEZ2VQbA%3D%3D
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
@@ -33,7 +31,6 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 广东卫视,http://192.168.6.1:1207/rtp/239.255.40.52:8208
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://feiyang.wangdu.site/decrypt.php?url=R0pNS3ZscGVSc3U2MFVLQ3REaE04S3lqeUZyOEIwb0xJam5Cc1FwT1FoRGlFNjFvbE5MN1lvaGtGTGZiaTBXRGdZTUl2SjcwREM0WmtsalhJZ09JekE9PQ%3D%3D
 浙江卫视,https://feiyang.wangdu.site/decrypt.php?url=SG1VeENiZ292Zy91c285eGJMaUYyVWdWZjBJSmlXMVB5aTNoMVNrd1NyZFZJRmhEQ0U1V0M3YjV6a1ZxYWt1ejkyTUg0N01ZV21xVEVCdEZodElRN3c9PQ%3D%3D
 湖南卫视,http://192.168.6.1:1207/rtp/239.255.40.43:8208
@@ -46,7 +43,6 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 重庆卫视,http://192.168.6.1:1207/rtp/239.255.40.21:8208
 东方卫视,http://192.168.6.1:1207/rtp/239.255.40.50:8208
-东方卫视,https://feiyang.wangdu.site/decrypt.php?url=eWlRZjY1Zlhwb3g3Q092dWJaQ2FpaHFvSm9VWXR5YURaNDZVL0RVUFNPRGI1NnhrSTNaaE9oNEJZNU01LzZKZUdwVzV0dWQzWW9sVExJazUrdUVWS3cxOTlpNmY5RG9vWDdJd1NsNUR4L0U9
 甘肃卫视,http://192.168.6.1:1207/rtp/239.255.40.16:8208
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 广西卫视,http://192.168.6.1:1207/rtp/239.255.40.22:8208
@@ -56,7 +52,6 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 河南卫视,http://192.168.6.1:1207/rtp/239.255.40.9:8208
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://192.168.6.1:1207/rtp/239.255.40.17:8208
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://192.168.6.1:1207/rtp/239.255.40.42:8208
@@ -73,11 +68,9 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 三沙卫视,http://192.168.6.1:1207/rtp/239.255.40.82:8208
-三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000
 天津卫视,http://192.168.6.1:1207/rtp/239.255.40.48:8208
 西藏卫视,http://192.168.6.1:1207/rtp/239.255.40.12:8208
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=1
-西藏卫视,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczTVFuTCtLYTY5UGtmK0h1dG1oVi9CVmlwWmVMQlZIZ1BaWVJEMU1uMTFBWA%3D%3D
 新疆卫视,http://192.168.6.1:1207/rtp/239.255.40.11:8208
 云南卫视,http://192.168.6.1:1207/rtp/239.255.40.6:8208
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
@@ -106,7 +99,10 @@ IPTV6+,http://192.168.6.1:1207/rtp/239.255.40.64:8208
 IPTV8+,http://192.168.6.1:1207/rtp/239.255.40.65:8208
 IPTV谍战剧场,http://192.168.6.1:1207/rtp/239.255.40.58:8208
 北京IPTV4K,https://feiyang.wangdu.site/decrypt.php?url=eWlRZjY1Zlhwb3g3Q092dWJaQ2FpaHFvSm9VWXR5YURaNDZVL0RVUFNPRGI1NnhrSTNaaE9oNEJZNU01LzZKZVhPSS9VdlVXZkI4SWVGSjZCanFuNEVzeHVWS3VxUjRTcW9EWHg3WFQzM1U9
-CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
+重温经典,https://feiyang.wangdu.site/decrypt.php?url=UUpJQmovS0UxVE9nMXhwRFlUV0lZdW00NUpsZUZzNTdRalhYS2xiYkJ2Y3RjcnBQQzl6eDdnWTVwbGdIYWFjMA%3D%3D
+重温经典,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3aFpZT21vVGh0SzFCUmZjcjF3Wk1xeg%3D%3D
+重温经典,https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4ZmRFRmVvNi94Znp0UlgveEVLOWliZ0xRdkxKU0RjSWtDTGdlVkR4OXZpcA%3D%3D
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CHC动作电影,http://61.163.58.168:2005/play/forward/5?tvid=chcaction&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5LyR5pav6aG_IiwiaXAiOiIxMDguMTI2LjEzOS4yMiIsInR2aWQiOiIyNjU5NjIzMCIsImVjb25vbWl6ZSI6IuW-t-WFi-iQqOaWryIsImV4cCI6MTc0NTkyMzk3NiwibmJmIjoxNzQ1OTA1OTc2LCJpYXQiOjE3NDU5MDU5NzZ9.gPoSyGVh
 
 💾福建频道,#genre#
@@ -135,6 +131,7 @@ CETV4,http://192.168.6.1:1207/rtp/239.255.40.31:8208
 睛彩广场舞,http://192.168.6.1:1207/rtp/239.255.40.210:8208
 福建教育,http://192.168.6.1:1207/rtp/239.255.40.106:8208
 山东教育,http://192.168.6.1:1207/rtp/239.255.40.32:8208
+山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 纪实科教,http://192.168.6.1:1207/rtp/239.255.40.205:8208
 金鹰纪实,http://192.168.6.1:1207/rtp/239.255.40.57:8208
 财富天下,http://192.168.6.1:1207/rtp/239.255.40.33:8208
@@ -156,38 +153,38 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 CGTN阿语,https://feiyang.wangdu.site/decrypt.php?url=cEpmYVIxcTl4OUk5ZDVLYkUydjZrSWo4WXU1QVJNbGYrZ0RnV2FFOWtUWT0%3D
 CGTN西语,https://feiyang.wangdu.site/decrypt.php?url=cEpmYVIxcTl4OUk5ZDVLYkUydjZrSDg1eHhlbGx6NVNFdW1tMWpuY3orRT0%3D
 凤凰中文,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3Z1dabnFqMXhKcU5YMjF3UmxUdEptUg%3D%3D
-凤凰中文,https://feiyang.wangdu.site/decrypt.php?url=RitVN0NtSFdsN0FlRjZNc3lWendqdG5ybStYSzJzS0lMdmtkd2VXZ1lSR3QvSlVTQ1RGeG9FdVhLa1JvbnZKWGN6cWhMMDBUZVFoRUFLcllPdkY3clE9PQ%3D%3D
-凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3Zy9VZlY2Z1BUalg2b21JYTBSSE8xbQ%3D%3D
 凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=UUpJQmovS0UxVE9nMXhwRFlUV0lZbVcxL2RUS2F6QWIxMkU0ZU5lRlVPKy80VXRlUFg2ZHFlamkvbXZzbGlCNQ%3D%3D
+凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3Zy9VZlY2Z1BUalg2b21JYTBSSE8xbQ%3D%3D
+凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQlVnYU4ydDJ3Ylk4YkpraGxQdlhGZklBcGZxUXhNV0I4M3RoQ05XWmZlK3Z1SzBqdlpweVNLU3RYUmtVZ0VwU3c9PQ%3D%3D
 凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4Ym9NZDJ3cHRSVTlROGJGNkI3RWM1cE5NWUZQdEtxKzN5RCt6V2JqUklQQQ%3D%3D
 
 🇨🇳 埋堆堆,#genre#
 
 🇨🇳 斗鱼,#genre#
-斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
 斗鱼贝爷影厅,http://b.zgjok.com:35455/douyu/252802
+斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
 斗鱼漫威电影,http://b.zgjok.com:35455/douyu/6140589
 斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
-斗鱼科幻电影,http://b.zgjok.com:35455/douyu/9651304
 斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
+斗鱼科幻电影,http://b.zgjok.com:35455/douyu/9651304
 斗鱼喜剧电影,http://b.zgjok.com:35455/douyu/323876
 斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
-斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
 斗鱼蓝光影院,http://b.zgjok.com:35455/douyu/7882691
+斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
+斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
+斗鱼魔幻影院,http://www.douzhicloud.site:35455/douyu/1274132
 斗鱼漫威宇宙,http://b.zgjok.com:35455/douyu/11673725
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼魔幻大片,http://b.zgjok.com:35455/douyu/52787
-斗鱼华语喜剧,http://b.zgjok.com:35455/douyu/276200
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
-斗鱼香港电影,http://b.zgjok.com:35455/douyu/6079455
+斗鱼华语喜剧,http://b.zgjok.com:35455/douyu/276200
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
 斗鱼经典电影,http://b.zgjok.com:35455/douyu/96577
 斗鱼专辑影院,http://b.zgjok.com:35455/douyu/3811092
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
-斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
 斗鱼周末影院,http://b.zgjok.com:35455/douyu/315457
+斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
 
 虎牙,#genre#
 电影_星爷,http://www.douzhicloud.site:35455/huya/11342412
