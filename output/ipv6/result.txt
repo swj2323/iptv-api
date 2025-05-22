@@ -60,6 +60,7 @@ CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/
 CCTV5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
 CCTV5,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226731/1.m3u8
 CCTV5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8
+CCTV5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV5+,http://192.168.6.1:1207/rtp/239.255.40.34:8208
 CCTV5+,http://192.168.6.1:1207/rtp/239.255.40.71:8208
 CCTV7,http://192.168.6.1:1207/rtp/239.255.40.37:8208
@@ -812,6 +813,7 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 
 📼其他频道,#genre#
 CETV1,http://192.168.6.1:1207/rtp/239.255.40.201:8208
+CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV2,http://192.168.6.1:1207/rtp/239.255.40.30:8208
 CETV4,http://192.168.6.1:1207/rtp/239.255.40.31:8208
 睛彩青少,http://192.168.6.1:1207/rtp/239.255.40.207:8208
