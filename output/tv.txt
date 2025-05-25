@@ -198,7 +198,6 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
 广东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227201/index.m3u8
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070
@@ -212,6 +211,7 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8
 浙江卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873464.m3u8
 浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1746309623-0oh0wczjlthcs675z4v5o04eqlbj4e7p-0-f7567e57301970404dd8b1441f8b6662
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1746093625-2ln6mv1hv9ixvyubfdm32l0edhwgiqw7-0-d989b083951d17cd5c43bdd0538cbe3f
 湖南卫视,http://192.168.6.1:1207/rtp/239.255.40.43:8208
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
@@ -663,9 +663,7 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 云南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
 云南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8
 兵团卫视,http://192.168.6.1:1207/rtp/239.255.40.29:8208
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 大湾区卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226540/1.m3u8
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
@@ -749,9 +747,6 @@ CCTV8,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226715/1.m3u8
 IPTV6+,http://192.168.6.1:1207/rtp/239.255.40.64:8208
 IPTV8+,http://192.168.6.1:1207/rtp/239.255.40.65:8208
 IPTV谍战剧场,http://192.168.6.1:1207/rtp/239.255.40.58:8208
-重温经典,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3aFpZT21vVGh0SzFCUmZjcjF3Wk1xeg%3D%3D
-重温经典,https://feiyang.wangdu.site/decrypt.php?url=UUpJQmovS0UxVE9nMXhwRFlUV0lZdW00NUpsZUZzNTdRalhYS2xiYkJ2Y3RjcnBQQzl6eDdnWTVwbGdIYWFjMA%3D%3D
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-24.ctv
 CHC动作电影,http://eastscreen.tv/ooooo.php
@@ -906,11 +901,9 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
 斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
 斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
-斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
 斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457

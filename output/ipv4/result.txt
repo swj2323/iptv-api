@@ -28,7 +28,6 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 东南卫视,http://192.168.6.1:1207/rtp/239.255.40.203:8208
 广东卫视,http://192.168.6.1:1207/rtp/239.255.40.52:8208
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://192.168.6.1:1207/rtp/239.255.40.43:8208
 北京卫视,http://192.168.6.1:1207/rtp/239.255.40.46:8208
 湖北卫视,http://192.168.6.1:1207/rtp/239.255.40.47:8208
@@ -64,8 +63,6 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 云南卫视,http://192.168.6.1:1207/rtp/239.255.40.6:8208
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 兵团卫视,http://192.168.6.1:1207/rtp/239.255.40.29:8208
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
 
 🎥动画频道,#genre#
 CCTV14,http://192.168.6.1:1207/rtp/239.255.40.41:8208
@@ -85,9 +82,6 @@ CCTV8,http://192.168.6.1:1207/rtp/239.255.40.197:8208
 IPTV6+,http://192.168.6.1:1207/rtp/239.255.40.64:8208
 IPTV8+,http://192.168.6.1:1207/rtp/239.255.40.65:8208
 IPTV谍战剧场,http://192.168.6.1:1207/rtp/239.255.40.58:8208
-重温经典,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3aFpZT21vVGh0SzFCUmZjcjF3Wk1xeg%3D%3D
-重温经典,https://feiyang.wangdu.site/decrypt.php?url=UUpJQmovS0UxVE9nMXhwRFlUV0lZdW00NUpsZUZzNTdRalhYS2xiYkJ2Y3RjcnBQQzl6eDdnWTVwbGdIYWFjMA%3D%3D
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 💾福建频道,#genre#
 福建文体,http://192.168.6.1:1207/rtp/239.255.40.155:8208
@@ -139,11 +133,9 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
 斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
 斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
-斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
 斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
