@@ -28,11 +28,9 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 东南卫视,http://192.168.6.1:1207/rtp/239.255.40.203:8208
 广东卫视,http://192.168.6.1:1207/rtp/239.255.40.52:8208
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://192.168.6.1:1207/rtp/239.255.40.43:8208
 北京卫视,http://192.168.6.1:1207/rtp/239.255.40.46:8208
 湖北卫视,http://192.168.6.1:1207/rtp/239.255.40.47:8208
-湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 黑龙江卫视,http://192.168.6.1:1207/rtp/239.255.40.44:8208
 安徽卫视,http://192.168.6.1:1207/rtp/239.255.40.53:8208
 重庆卫视,http://192.168.6.1:1207/rtp/239.255.40.21:8208
@@ -63,6 +61,7 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 云南卫视,http://192.168.6.1:1207/rtp/239.255.40.6:8208
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 兵团卫视,http://192.168.6.1:1207/rtp/239.255.40.29:8208
+大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
 
 🎥动画频道,#genre#
 CCTV14,http://192.168.6.1:1207/rtp/239.255.40.41:8208
@@ -72,7 +71,6 @@ CCTV14,http://192.168.6.1:1207/rtp/239.255.40.41:8208
 嘉佳卡通,http://192.168.6.1:1207/rtp/239.255.40.26:8208
 IPTV少儿动画,http://192.168.6.1:1207/rtp/239.255.40.66:8208
 IPTV野外,http://192.168.6.1:1207/rtp/239.255.40.60:8208
-动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
@@ -130,25 +128,11 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 🇨🇳 埋堆堆,#genre#
 
 🇨🇳 斗鱼,#genre#
-斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
-斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
-斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
-斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
-斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
-斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
-斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
-斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
-斗鱼恐怖电影,http://b.zgjok.com:35455/douyu/263824
-斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
-斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
+斗鱼MAX电影,http://b.zgjok.com:35455/douyu/4332
+斗鱼香港电影,http://b.zgjok.com:35455/douyu/6079455
 
 虎牙,#genre#
 
 💥 虎牙,#genre#
-电影_战争,http://www.douzhicloud.site:35455/huya/21059592
-电影_贺岁,http://www.douzhicloud.site:35455/huya/11601971
 
 💥 Y//Y,#genre#
-寻秦记,http://www.douzhicloud.site:35455/huya/29465848
-倚天屠龙记,http://www.douzhicloud.site:35455/huya/23734246
