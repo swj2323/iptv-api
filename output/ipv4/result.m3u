@@ -33,8 +33,6 @@ http://192.168.6.1:1207/rtp/239.255.40.39:8208
 http://192.168.6.1:1207/rtp/239.255.40.2:8208
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV12
 http://192.168.6.1:1207/rtp/239.255.40.40:8208
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV12
-http://nas.hssvm.com:8888/udp/225.1.1.142:5002
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV13
 http://192.168.6.1:1207/rtp/239.255.40.3:8208
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV13
@@ -77,6 +75,8 @@ http://192.168.6.1:1207/rtp/239.255.40.200:8208
 http://192.168.6.1:1207/rtp/239.255.40.23:8208
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://192.168.6.1:1207/rtp/239.255.40.20:8208
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
+http://101.74.30.82:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://192.168.6.1:1207/rtp/239.255.40.9:8208
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -131,6 +131,8 @@ http://192.168.6.1:1207/rtp/239.255.40.26:8208
 http://192.168.6.1:1207/rtp/239.255.40.66:8208
 #EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV野外.png" group-title="🎥动画频道",IPTV野外
 http://192.168.6.1:1207/rtp/239.255.40.60:8208
+#EXTINF:-1 tvg-name="东森幼幼" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森幼幼.png" group-title="🎥动画频道",东森幼幼
+http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="🎬电影剧集",CCTV6
 http://192.168.6.1:1207/rtp/239.255.40.175:8208
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="🎬电影剧集",CCTV8
@@ -231,12 +233,20 @@ http://www.douzhicloud.site:35455/douyu/9651304
 http://www.douzhicloud.site:35455/douyu/323876
 #EXTINF:-1 tvg-name="斗鱼蓝光影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼蓝光影院.png" group-title="🇨🇳 斗鱼",斗鱼蓝光影院
 http://www.douzhicloud.site:35455/douyu/7882691
+#EXTINF:-1 tvg-name="斗鱼魔幻影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼魔幻影院.png" group-title="🇨🇳 斗鱼",斗鱼魔幻影院
+http://www.douzhicloud.site:35455/douyu/1274132
+#EXTINF:-1 tvg-name="斗鱼魔幻影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼魔幻影院.png" group-title="🇨🇳 斗鱼",斗鱼魔幻影院
+http://b.zgjok.com:35455/douyu/1274132
 #EXTINF:-1 tvg-name="斗鱼漫威宇宙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼漫威宇宙.png" group-title="🇨🇳 斗鱼",斗鱼漫威宇宙
 http://www.douzhicloud.site:35455/douyu/11673725
 #EXTINF:-1 tvg-name="斗鱼魔幻大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼魔幻大片.png" group-title="🇨🇳 斗鱼",斗鱼魔幻大片
 http://www.douzhicloud.site:35455/douyu/52787
 #EXTINF:-1 tvg-name="斗鱼华语喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼华语喜剧.png" group-title="🇨🇳 斗鱼",斗鱼华语喜剧
 http://www.douzhicloud.site:35455/douyu/276200
+#EXTINF:-1 tvg-name="斗鱼香港电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼香港电影.png" group-title="🇨🇳 斗鱼",斗鱼香港电影
+http://www.douzhicloud.site:35455/douyu/6079455
+#EXTINF:-1 tvg-name="斗鱼香港电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼香港电影.png" group-title="🇨🇳 斗鱼",斗鱼香港电影
+http://b.zgjok.com:35455/douyu/6079455
 #EXTINF:-1 tvg-name="斗鱼经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼经典电影.png" group-title="🇨🇳 斗鱼",斗鱼经典电影
 http://www.douzhicloud.site:35455/douyu/96577
 #EXTINF:-1 tvg-name="斗鱼专辑影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼专辑影院.png" group-title="🇨🇳 斗鱼",斗鱼专辑影院
