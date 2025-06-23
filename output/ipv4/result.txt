@@ -27,7 +27,6 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 东南卫视,http://192.168.6.1:1207/rtp/239.255.40.203:8208
 广东卫视,http://192.168.6.1:1207/rtp/239.255.40.52:8208
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://192.168.6.1:1207/rtp/239.255.40.43:8208
 北京卫视,http://192.168.6.1:1207/rtp/239.255.40.46:8208
 湖北卫视,http://192.168.6.1:1207/rtp/239.255.40.47:8208
@@ -50,7 +49,6 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 宁夏卫视,http://192.168.6.1:1207/rtp/239.255.40.8:8208
 青海卫视,http://192.168.6.1:1207/rtp/239.255.40.15:8208
 山东卫视,http://192.168.6.1:1207/rtp/239.255.40.51:8208
-山东卫视,http://124.128.73.58:9901/tsfile/live/0107_1.m3u8
 山西卫视,http://192.168.6.1:1207/rtp/239.255.40.13:8208
 陕西卫视,http://192.168.6.1:1207/rtp/239.255.40.10:8208
 四川卫视,http://192.168.6.1:1207/rtp/239.255.40.19:8208
@@ -134,12 +132,9 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
 斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
 斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
-斗鱼魔幻影院,http://www.douzhicloud.site:35455/douyu/1274132
-斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
 斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
