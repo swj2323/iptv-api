@@ -133,7 +133,7 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 斗鱼魔幻大片,http://b.zgjok.com:35455/douyu/52787
 斗鱼华语喜剧,http://b.zgjok.com:35455/douyu/276200
 斗鱼高分电影,http://b.zgjok.com:35455/douyu/431460
-斗鱼香港电影,http://b.zgjok.com:35455/douyu/6079455
+斗鱼豆瓣高分,http://b.zgjok.com:35455/douyu/74374
 斗鱼经典电影,http://b.zgjok.com:35455/douyu/96577
 斗鱼国产电影,http://b.zgjok.com:35455/douyu/122402
 斗鱼专辑影院,http://b.zgjok.com:35455/douyu/3811092
