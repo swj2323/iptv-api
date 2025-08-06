@@ -819,6 +819,7 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 家庭剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 惊悚悬疑,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 精品大剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc
 
 💾福建频道,#genre#
@@ -832,6 +833,7 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 海峡卫视,http://192.168.6.1:1207/rtp/239.255.40.157:8208
 海峡卫视,http://goo.bkpcp.top/mg/hxws
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+海峡卫视,http://r.jdshipin.com/WtYt3
 厦门卫视,http://192.168.6.1:1207/rtp/239.255.40.28:8208
 厦门卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 厦门卫视,http://[2409:8087:74F1:0021::0008]/270000001128/9900000058/index.m3u8
