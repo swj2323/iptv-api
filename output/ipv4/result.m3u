@@ -39,8 +39,6 @@ http://192.168.6.1:1207/rtp/239.255.40.3:8208
 http://192.168.6.1:1207/rtp/239.255.40.4:8208
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV16
 http://192.168.6.1:1207/rtp/239.255.40.194:8208
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV16
-http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV17
 http://192.168.6.1:1207/rtp/239.255.40.143:8208
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
@@ -141,6 +139,8 @@ http://192.168.6.1:1207/rtp/239.255.40.64:8208
 http://192.168.6.1:1207/rtp/239.255.40.65:8208
 #EXTINF:-1 tvg-name="IPTV谍战剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV谍战剧场.png" group-title="🎬电影剧集",IPTV谍战剧场
 http://192.168.6.1:1207/rtp/239.255.40.58:8208
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🎬电影剧集",都市剧场
+https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建文体.png" group-title="💾福建频道",福建文体
 http://192.168.6.1:1207/rtp/239.255.40.155:8208
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建新闻.png" group-title="💾福建频道",福建新闻
@@ -217,25 +217,3 @@ http://192.168.6.1:1207/rtp/239.255.40.179:8208
 http://192.168.6.1:1207/rtp/239.255.40.178:8208
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录.png" group-title="📼其他频道",CGTN纪录
 http://192.168.6.1:1207/rtp/239.255.40.183:8208
-#EXTINF:-1 tvg-name="斗鱼贝爷影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼贝爷影厅.png" group-title="🇨🇳 斗鱼",斗鱼贝爷影厅
-http://www.douzhicloud.site:35455/douyu/252802
-#EXTINF:-1 tvg-name="斗鱼漫威电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼漫威电影.png" group-title="🇨🇳 斗鱼",斗鱼漫威电影
-http://www.douzhicloud.site:35455/douyu/6140589
-#EXTINF:-1 tvg-name="斗鱼科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼科幻电影.png" group-title="🇨🇳 斗鱼",斗鱼科幻电影
-http://www.douzhicloud.site:35455/douyu/9651304
-#EXTINF:-1 tvg-name="斗鱼喜剧电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼喜剧电影.png" group-title="🇨🇳 斗鱼",斗鱼喜剧电影
-http://www.douzhicloud.site:35455/douyu/323876
-#EXTINF:-1 tvg-name="斗鱼蓝光影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼蓝光影院.png" group-title="🇨🇳 斗鱼",斗鱼蓝光影院
-http://www.douzhicloud.site:35455/douyu/7882691
-#EXTINF:-1 tvg-name="斗鱼漫威宇宙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼漫威宇宙.png" group-title="🇨🇳 斗鱼",斗鱼漫威宇宙
-http://www.douzhicloud.site:35455/douyu/11673725
-#EXTINF:-1 tvg-name="斗鱼华语喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼华语喜剧.png" group-title="🇨🇳 斗鱼",斗鱼华语喜剧
-http://www.douzhicloud.site:35455/douyu/276200
-#EXTINF:-1 tvg-name="斗鱼经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼经典电影.png" group-title="🇨🇳 斗鱼",斗鱼经典电影
-http://www.douzhicloud.site:35455/douyu/96577
-#EXTINF:-1 tvg-name="斗鱼专辑影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼专辑影院.png" group-title="🇨🇳 斗鱼",斗鱼专辑影院
-http://www.douzhicloud.site:35455/douyu/3811092
-#EXTINF:-1 tvg-name="斗鱼恐怖电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼恐怖电影.png" group-title="🇨🇳 斗鱼",斗鱼恐怖电影
-http://www.douzhicloud.site:35455/douyu/263824
-#EXTINF:-1 tvg-name="斗鱼周末影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼周末影院.png" group-title="🇨🇳 斗鱼",斗鱼周末影院
-http://www.douzhicloud.site:35455/douyu/315457
