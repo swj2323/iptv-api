@@ -154,6 +154,7 @@ CCTV15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8
 CCTV15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
 CCTV16,http://192.168.6.1:1207/rtp/239.255.40.194:8208
+CCTV16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 CCTV16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
@@ -818,7 +819,6 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 家庭剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 惊悚悬疑,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 精品大剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc
 
 💾福建频道,#genre#
@@ -996,3 +996,4 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 电影_星爷,https://www.goodiptv.club/huya/11342412
 
 💥 Y//Y,#genre#
+钟馗传说,https://mursor.ottiptv.cc/yy/1382736839
