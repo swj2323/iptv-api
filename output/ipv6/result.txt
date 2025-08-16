@@ -155,6 +155,7 @@ CCTV15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2
 CCTV15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8
 CCTV15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
+CCTV15,http://lu.wqwqwq.sbs/itv/1000000005000265014.m3u8?cdn=ystenlive
 CCTV16,http://192.168.6.1:1207/rtp/239.255.40.194:8208
 CCTV16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
@@ -845,6 +846,7 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 厦门卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8
 厦门卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226695/1.m3u8
 厦门卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
+厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 厦门一套,http://192.168.6.1:1207/rtp/239.255.40.171:8208
 平潭卫视,http://192.168.6.1:1207/rtp/239.255.40.191:8208
 泉州一套,http://192.168.6.1:1207/rtp/239.255.40.172:8208
@@ -854,9 +856,11 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CETV1,http://192.168.6.1:1207/rtp/239.255.40.201:8208
 CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
+CETV1,https://cc06.tv12.xyz/23.m3u8
 CETV2,http://192.168.6.1:1207/rtp/239.255.40.30:8208
 CETV2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
 CETV2,https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=58dbb8ad5ad539c0da365c819615222219346bbe2fa8d6e4231da9ad89c4faf34adbae451bebfa99d9b8c9eda32e04a0066231dfd40496610efa4bee9ad5f110baee36b6f4098850d6b507505f
+CETV2,https://cc06.tv12.xyz/24.m3u8
 CETV4,http://192.168.6.1:1207/rtp/239.255.40.31:8208
 CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b
@@ -868,6 +872,7 @@ CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61
 睛彩广场舞,http://192.168.6.1:1207/rtp/239.255.40.210:8208
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
 福建教育,http://192.168.6.1:1207/rtp/239.255.40.106:8208
 山东教育,http://192.168.6.1:1207/rtp/239.255.40.32:8208
 山东教育,http://iptv.huuc.edu.cn/hls/sdetv.m3u8
