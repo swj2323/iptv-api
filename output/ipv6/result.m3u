@@ -1669,6 +1669,8 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000036/index.m3u8
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8
 #EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱悬疑.png" group-title="🎬电影剧集",爱悬疑
 http://yc.myds.me:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="🎬电影剧集",风云剧场
+https://mursor.ottiptv.cc/mcp/fyjc.m3u8
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情喜剧.png" group-title="🎬电影剧集",爱情喜剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级电影.png" group-title="🎬电影剧集",超级电影

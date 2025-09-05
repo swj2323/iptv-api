@@ -840,6 +840,7 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=1d2aae4c4233178928277e5322b57
 爱悬疑,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000036/index.m3u8
 爱悬疑,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8
 爱悬疑,http://yc.myds.me:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
+风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8
 爱情喜剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8

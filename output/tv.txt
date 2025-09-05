@@ -841,6 +841,7 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=1d2aae4c4233178928277e5322b57
 爱悬疑,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000036/index.m3u8
 爱悬疑,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8
 爱悬疑,http://yc.myds.me:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
+风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8
 爱情喜剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
@@ -984,11 +985,9 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
 斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
 斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
-斗鱼魔幻影院,http://www.douzhicloud.site:35455/douyu/1274132
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
 斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
