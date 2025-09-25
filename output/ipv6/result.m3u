@@ -1805,6 +1805,8 @@ http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="📼其他频道",睛彩广场舞
 http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="📼其他频道",睛彩广场舞
+http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8
 #EXTINF:-1 tvg-name="福建教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建教育.png" group-title="📼其他频道",福建教育
 http://192.168.6.1:1207/rtp/239.255.40.106:8208
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东教育.png" group-title="📼其他频道",山东教育

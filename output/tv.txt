@@ -914,6 +914,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8
 福建教育,http://192.168.6.1:1207/rtp/239.255.40.106:8208
 山东教育,http://192.168.6.1:1207/rtp/239.255.40.32:8208
 山东教育,http://iptv.huuc.edu.cn/hls/sdetv.m3u8
@@ -994,7 +995,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
 斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
