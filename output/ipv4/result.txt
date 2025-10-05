@@ -32,6 +32,7 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 黑龙江卫视,http://192.168.6.1:1207/rtp/239.255.40.44:8208
 安徽卫视,http://192.168.6.1:1207/rtp/239.255.40.53:8208
 重庆卫视,http://192.168.6.1:1207/rtp/239.255.40.21:8208
+重庆卫视,http://111.227.196.164:9901/tsfile/live/0142_1.m3u8
 东方卫视,http://192.168.6.1:1207/rtp/239.255.40.50:8208
 甘肃卫视,http://192.168.6.1:1207/rtp/239.255.40.16:8208
 广西卫视,http://192.168.6.1:1207/rtp/239.255.40.22:8208
@@ -129,7 +130,6 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
 斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
