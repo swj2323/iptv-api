@@ -663,6 +663,7 @@ CCTV17,https://cc06.tv12.xyz/17.m3u8
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=8256c872ff0deaa54124f36a4655c97e&time=6810e978
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 新疆卫视,http://192.168.6.1:1207/rtp/239.255.40.11:8208
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
 新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
 新疆卫视,http://j.x.bkpcp.top/jx/XJWS
@@ -676,7 +677,6 @@ CCTV17,https://cc06.tv12.xyz/17.m3u8
 新疆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
 新疆卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227248/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 新疆卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227248/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-新疆卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
 云南卫视,http://192.168.6.1:1207/rtp/239.255.40.6:8208
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
@@ -869,7 +869,6 @@ CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?sign=bda539eec2bb0ede8
 都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226155/index.m3u8
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc
 欢笑剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/1.m3u8
-欢笑剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8
 东方影视,https://migu.188766.xyz/?migutoken=bc0e05d32878b28e54d3735d235f61c0&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
 
 💾福建频道,#genre#
@@ -1004,13 +1003,18 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 橙記Orange,https://www.goodiptv.club/douyu/4549169
 斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
 斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
+斗鱼MAX电影,http://www.douzhicloud.site:35455/douyu/4332
 斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
 斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
 斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
+斗鱼魔幻影院,http://www.douzhicloud.site:35455/douyu/1274132
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
+斗鱼高分电影,http://www.douzhicloud.site:35455/douyu/431460
+斗鱼豆瓣高分,http://www.douzhicloud.site:35455/douyu/74374
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
+斗鱼国产电影,http://www.douzhicloud.site:35455/douyu/122402
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
 斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
 斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
