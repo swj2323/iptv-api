@@ -1011,6 +1011,20 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 
 🇨🇳 斗鱼,#genre#
 橙記Orange,https://www.goodiptv.club/douyu/4549169
+斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
+斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
+斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
+斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
+斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
+斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
+斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
+斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
+斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
+斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
+斗鱼国产电影,http://www.douzhicloud.site:35455/douyu/122402
+斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
+斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
+斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
 
 虎牙,#genre#
 电影_星爷,https://www.goodiptv.club/huya/11342412
