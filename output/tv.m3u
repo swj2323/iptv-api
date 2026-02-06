@@ -1745,8 +1745,6 @@ http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/1.m3u8
 https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="🎬电影剧集",欢笑剧场
 https://shyd.695847.xyz/cms001/ch00000090990000001193/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬电影剧集",纬来电影
-http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="🎬电影剧集",东方影视
 https://migu.188766.xyz/?migutoken=bc0e05d32878b28e54d3735d235f61c0&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建文体.png" group-title="💾福建频道",福建文体
@@ -2013,8 +2011,6 @@ http://www.douzhicloud.site:35455/douyu/52787
 http://www.douzhicloud.site:35455/douyu/276200
 #EXTINF:-1 tvg-name="斗鱼经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼经典电影.png" group-title="🇨🇳 斗鱼",斗鱼经典电影
 http://www.douzhicloud.site:35455/douyu/96577
-#EXTINF:-1 tvg-name="斗鱼国产电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼国产电影.png" group-title="🇨🇳 斗鱼",斗鱼国产电影
-http://www.douzhicloud.site:35455/douyu/122402
 #EXTINF:-1 tvg-name="斗鱼专辑影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼专辑影院.png" group-title="🇨🇳 斗鱼",斗鱼专辑影院
 http://www.douzhicloud.site:35455/douyu/3811092
 #EXTINF:-1 tvg-name="斗鱼恐怖电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼恐怖电影.png" group-title="🇨🇳 斗鱼",斗鱼恐怖电影
